@@ -7,15 +7,24 @@ Python3 script to download YouTube videos in MP4 format. The script also shows t
 
 ## Installation steps
 
+
+### make a folder
 ```
-# make a folder
 mkdir youtube_video_downloader
-# navigate to that folder
+```
+### navigate to that folder
+```
 cd youtube_video_downloader
-# setup a virtual enviornment
+```
+### setup a virtual enviornment
+```
 python -m venv venv
-# download pytube
+```
+### download pytube
+```
 pip install pytube3
-# run the script
+```
+### run the script
+```
 python yd.py
 ```
