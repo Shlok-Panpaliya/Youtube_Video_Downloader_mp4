@@ -2,7 +2,7 @@
 
 Python3 script to download YouTube videos in MP4 format. The script also shows the progress bar of the video to be downloaded
 
-###(Orignal repo : [https://github.com/get-pytube/pytube3])
+##### Orignal repo : [https://github.com/get-pytube/pytube3]
 
 ## Feature of the script
 - Download the video of the specified url
