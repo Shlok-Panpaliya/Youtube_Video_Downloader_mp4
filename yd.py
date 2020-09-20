@@ -17,7 +17,7 @@ def main():
     yt.streams.order_by('resolution').desc()
 
     yt = yt.streams[0].download(file_path)
-    print("Your Video is download in ",file_path)
+    print("Your Video is downloaded in ",file_path)
 
 
 if __name__ == '__main__':
