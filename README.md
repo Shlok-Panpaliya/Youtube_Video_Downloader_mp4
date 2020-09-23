@@ -21,6 +21,7 @@ cd youtube_video_downloader
 ### setup a virtual enviornment
 ```
 python -m venv venv
+source venv/bin/activate
 ```
 ### download pytube
 ```
